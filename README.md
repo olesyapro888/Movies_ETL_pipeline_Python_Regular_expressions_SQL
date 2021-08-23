@@ -35,14 +35,16 @@ The automated pipeline is created by using following resources:
   - the release date column;
   - the running time column.
 #### `3. The extraction and transformation the Kaggle Data`
-  The extraction and transformation Kaggle metadata and MovieLens rating data, also the merged data of the Kaggle DataFrame with the Wikipedia movies DataFrame and with the MovieLens rating DataFrame are in the [ETL_clean_wiki_movies](./ETL_clean_wiki_movies.ipynb) file.
+  The extraction and transformation Kaggle metadata and MovieLens rating data, also the merged data of the Kaggle DataFrame with the Wikipedia movies DataFrame and with the MovieLens rating DataFrame are in the [ETL_clean_kaggle_data](./ETL_clean_kaggle_data.ipynb) file.
 #### `4. The creation the Movie Database`
   The addition of the merged movies_df DataFrame and MovieLens rating CSV data to a SQL database is in the [ETL_create_database](./ETL_create_database.ipynb) file.
  
   Screenshot of query and the output of the movies_df is following:
+
 ![image](https://user-images.githubusercontent.com/68247343/130376984-6612f53b-a623-4d82-8741-0eaef8132286.png)
 
 
   Screenshot of query and the output of the MovieLens rating is following:
+
 ![image](https://user-images.githubusercontent.com/68247343/130376997-6e492eb9-578e-4e6c-88fb-8319f7bca4c1.png)
   
