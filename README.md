@@ -1,5 +1,5 @@
-# Movies-ETL## 
-##`-Contents-`	
+# Movies-ETL project
+## `-Contents-`	
 	
 - [Overview of the Project](#overview-of-the-creation-an-automated-pipeline)	
 - [Resources](#resources)	
