@@ -7,7 +7,7 @@
   - [1. Writing an ETL Function to Read Three Data Files](#Writing-an-ETL-Function-to-Read-Three-Data-Files)	
   - [2. The ETL the Wikipedia Data](#The-extraction-and-transformation-the-Wikipedia-Data)
   - [3. The ETL the Kaggle Data](#The-extraction-and-transformation-the-Kaggle-Data)
-- [4. The creation the Movie Database](#The-creation-the-Movie-Database)
+  - [4. The creation the Movie Database](#The-creation-the-Movie-Database)
 	
 ## `Overview of the creation an automated pipeline`	
 	
@@ -40,6 +40,8 @@ The automated pipeline is created by using following resources:
   The addition of the merged movies_df DataFrame and MovieLens rating CSV data to a SQL database is in the [ETL_create_database](./ETL_create_database.ipynb) file.
  
   Screenshot of query and the output of the movies_df is following:
+  ![image](https://user-images.githubusercontent.com/68247343/130376892-415671d7-5107-42e5-b2c7-fc437a967cec.png)
 
   Screenshot of query and the output of the MovieLens rating is following:
-
+  ![image](https://user-images.githubusercontent.com/68247343/130376910-51338da6-8a54-47d7-89d6-ed65098939c9.png)
+  
