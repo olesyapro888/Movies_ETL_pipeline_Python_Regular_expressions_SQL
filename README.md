@@ -1,4 +1,5 @@
-# Movies-ETL project
+# Movies-ETL. The project 7 of the University of Toronto.
+
 ## `-Contents-`	
 	
 - [Overview of the Project](#overview-of-the-creation-an-automated-pipeline)	
