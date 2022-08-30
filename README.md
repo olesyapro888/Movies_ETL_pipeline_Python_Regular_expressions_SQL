@@ -1,4 +1,4 @@
-# Movies-ETL. The project 8 of the University of Toronto.
+# Creating Movies data pipeline from a source to a destination.
 
 ## `-Contents-`	
 	
